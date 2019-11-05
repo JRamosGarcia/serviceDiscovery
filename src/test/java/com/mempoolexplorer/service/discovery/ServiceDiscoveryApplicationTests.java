@@ -1,4 +1,4 @@
-package com.mempoolexplorer.serviceDiscovery;
+package com.mempoolexplorer.service.discovery;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
